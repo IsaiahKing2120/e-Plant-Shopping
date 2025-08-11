@@ -21,3 +21,5 @@ Redux Toolkit (createSlice, configureStore)
 
 Plain CSS (custom stylesheet)
 
+url:
+https://isaiahking2120.github.io/e-Plant-Shopping/
